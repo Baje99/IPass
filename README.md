@@ -4,15 +4,20 @@
 </p>
 
 <h1 align="center">IPass</h1>
+<h4 align="center">Be sure to :star: my configuration repo so you can keep up to date on any daily progress!</h4>
+<p align="center"><a align="center" target="_blank" href="https://vcloudinfo.us12.list-manage.com/subscribe?u=45cab4343ffdbeb9667c28a26&id=e01847e94f"><img src="https://feeds.feedburner.com/RecentCommitsToBearStoneHA.1.gif" alt="Recent Commits to Bear Stone Smart Home" style="border:0"></a></p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/username/password-manager/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
-  </a>
-  <a href="https://github.com/username/password-manager/actions/workflows/ci.yml">
-    <img src="https://github.com/username/password-manager/actions/workflows/ci.yml/badge.svg" alt="Build Status">
-  </a>
-</p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/ccostan?color=blue&amp;label=talk&amp;logo=twitter&amp;style=for-the-badge)](https://twitter.com/ccostan)
+[![YouTube Subscribe](https://img.shields.io/youtube/channel/subscribers/UC301G8JJFzY0BZ_0lshpKpQ?label=VIEW&logo=Youtube&logoColor=%23DF5D44&style=for-the-badge)](https://www.youtube.com/vCloudInfo?sub_confirmation=1)
+[![GitHub Follow](https://img.shields.io/github/stars/CCOSTAN/Home-AssistantConfig?label=sTARS&amp;logo=Github&amp;style=for-the-badge)](https://github.com/CCOSTAN)
+
+  <h4>
+    <a href="https://github.com/CCOSTAN/Home-AssistantConfig/commits/master"><img src="https://img.shields.io/github/last-commit/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>
+        <a href="https://github.com/CCOSTAN/Home-AssistantConfig/commits/master"><img src="https://img.shields.io/github/commit-activity/y/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>
+
+  </h4>
+</div>
 <h2 align="center">
 A simple and secure password manager that helps you generate and store strong passwords.
 </h1>

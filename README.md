@@ -13,19 +13,20 @@
     <img src="https://github.com/username/password-manager/actions/workflows/ci.yml/badge.svg" alt="Build Status">
   </a>
 </p>
-
+<h2 align="center">
 A simple and secure password manager that helps you generate and store strong passwords.
+</h1>
 
-![Screenshot](Capture1.png)
+<p align="center"> 
+    <img width="600" align="center" src="Capture1.JPG" alt="demo"/>
+</p>
 
 ## Features
 
-- Generate random and secure passwords
-- Store passwords in an encrypted database
+- Encrypt and decrypt passwords entered by user using AES 256
+- Store passwords in an encrypted database using MySql
 - Access passwords with a single master password
-- Copy passwords to clipboard for easy pasting
 - Securely delete passwords from the database
-- Import/export passwords to/from CSV files
 
 ## Installation
 
@@ -35,6 +36,9 @@ To install the required dependencies, run the following command:
 
 pip install -r requirements.txt
 
+To use this password manager, you need to have MySql from this [website] (https://www.mysql.com/downloads/). After installing you will need to configure the connection with the program in the installation process( setting the username (ex: root), password, which we will need to insert in main.py)
+For more help regarding the installation process of MySql check this [link](https://www.youtube.com/watch?v=2c2fUOgZMmY) ( for windows 10).
+
 
 ## Usage
 
@@ -43,9 +47,8 @@ To start the password manager, run the following command:
 python main.py
 
 
-You will be prompted to create a master password to secure your passwords database. After that, you can use the menu options to generate, store, and access your passwords.
+You will be prompted to create a master password to secure your passwords database. After that, you can use the menu options to encrypt, store, and access your passwords.
 
-For more information on how to use the password manager, please refer to the [user manual](https://github.com/username/password-manager/blob/main/docs/user-manual.md).
 
 ## Contributing
 
@@ -58,6 +61,5 @@ This project is licensed under the [MIT License](https://github.com/username/pas
 ---
 
 <p align="center">
-  Made with :heart: by Your Name
-</p>
+  Made with :heart: by Baje99
 

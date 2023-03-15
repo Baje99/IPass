@@ -60,10 +60,15 @@ python main.py
 
 You will be prompted to create a master password to secure your passwords database. After that, you can use the menu options to encrypt, store, and access your passwords.
 
+!!. This program has been tested only for windows 10. You may have problems with displaying the graphic interface depending on the system resolution. For its correct display, you can set the resolution of your system to 1920 x 1080 from the display settings.
 
-## Contributing
+## Future updates
 
-If you want to contribute to this project, please follow the [contribution guidelines](https://github.com/username/password-manager/blob/main/CONTRIBUTING.md). Any help is welcome, from bug reports to feature requests and code contributions.
+Soon I will implement a way to provide the possibility for the user to generate passwords to increase his security.
+
+I will also implement a function to provide an interface with all accounts and passwords in order to streamline the account search process.
+
+Problems/Errors: The lambda ,, after function '' displays an error in the terminal due to the animation of the text (the animation is still executed in the mainloop even if the window has been destroyed). If anyone knows a way to fix it, they can leave me a message or contribute to this project. :)
 
 ## License
 

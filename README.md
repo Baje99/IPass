@@ -4,22 +4,28 @@
 </p>
 
 <h1 align="center">IPass</h1>
-<h4 align="center">Be sure to :star: my configuration repo so you can keep up to date on any daily progress!</h4>
+<h2 align="center">Be sure to :star: my configuration repo so you can keep up to date on any daily progress!</h2>
+
 <p align="center"><a align="center" target="_blank" href="https://vcloudinfo.us12.list-manage.com/subscribe?u=45cab4343ffdbeb9667c28a26&id=e01847e94f"><img src="https://feeds.feedburner.com/RecentCommitsToBearStoneHA.1.gif" alt="Recent Commits to Bear Stone Smart Home" style="border:0"></a></p>
 <div align="center">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ccostan?color=blue&amp;label=talk&amp;logo=twitter&amp;style=for-the-badge)](https://twitter.com/ccostan)
-[![YouTube Subscribe](https://img.shields.io/youtube/channel/subscribers/UC301G8JJFzY0BZ_0lshpKpQ?label=VIEW&logo=Youtube&logoColor=%23DF5D44&style=for-the-badge)](https://www.youtube.com/vCloudInfo?sub_confirmation=1)
-[![GitHub Follow](https://img.shields.io/github/stars/CCOSTAN/Home-AssistantConfig?label=sTARS&amp;logo=Github&amp;style=for-the-badge)](https://github.com/CCOSTAN)
+[![GitHub Stars](https://img.shields.io/github/stars/Baje99/IPass?style=social;logo=Github&amp;style=for-the-badge)](https://github.com/Baje99)
+[![GitHub Follow](https://img.shields.io/github/followers/Baje99?style=social;logo=Github&amp;style=for-the-badge)](https://github.com/Baje99)
 
+  <h3>
+    <a href="https://github.com/Baje99"><img src="https://img.shields.io/github/last-commit/Baje99/IPass?style=for-the-badger"/></a>
+    <a href="https://github.com/Baje99"><img src="https://img.shields.io/github/commit-activity/y/Baje99/Ipass"/></a>
+    <a href="https://github.com/Baje99"><img src="https://badgen.net/github/checks/styfle/packagephobia/main"/></a>
+  </h3>
+    
   <h4>
-    <a href="https://github.com/CCOSTAN/Home-AssistantConfig/commits/master"><img src="https://img.shields.io/github/last-commit/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>
-        <a href="https://github.com/CCOSTAN/Home-AssistantConfig/commits/master"><img src="https://img.shields.io/github/commit-activity/y/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>
-
+    <a href="https://www.linkedin.com/in/madalin-bajan-432274213/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+    <a href="http://madalin1555.pythonanywhere.com/submit_form.html"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+    <a href="https://github.com/Baje99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> 
   </h4>
 </div>
 <h2 align="center">
-A simple and secure password manager that helps you generate and store strong passwords.
+A simple and secure password manager that helps store passwords.
 </h1>
 
 <p align="center"> 
